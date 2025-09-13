@@ -65,6 +65,18 @@ After analysing the simulated output,
 (iii) Change the firing angle to 90 degree, simulate and draw the Output voltage and current waveform on the graph sheet.
 (iv)Write your inference.
 
-## Simulation
-## Output
-## Result
+## Simulation:
+![WhatsApp Image 2025-09-13 at 11 47 48_e1eed67c](https://github.com/user-attachments/assets/c6da0019-2b1e-47ce-b4fb-3bc5882140e1)
+
+## Output:
+![WhatsApp Image 2025-09-13 at 11 48 23_b130c329](https://github.com/user-attachments/assets/e69d080b-4a33-400a-bdf4-3168ce81c100)
+![WhatsApp Image 2025-09-13 at 11 48 24_42088862](https://github.com/user-attachments/assets/8609d9e1-f468-4d05-9e57-4333ec4905a7)
+![WhatsApp Image 2025-09-13 at 11 48 24_6c404f13](https://github.com/user-attachments/assets/fbf2b1b2-c53c-4c79-8b34-98b8224d90ac)
+
+
+
+
+
+
+## Result:
+Hence the output was verified using matlab.
